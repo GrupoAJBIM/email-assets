@@ -23,3 +23,10 @@ a versao desktop, que e o comportamento desejado.
 
 O jsDelivr mantem `@main` em cache por ate 12h. Nunca sobrescreva uma arte
 que ja foi publicada: suba com sufixo novo (`-v3`) e atualize o `src` no HTML.
+
+## webinar-5x-ia (Webinar "Produza 5x mais usando I.A", 29/09/2026)
+
+| arquivo | uso | arquivo | exibe em |
+|---|---|---|---|
+| `webinar-5x-ia/convite-header-desktop-v1.png` | Convite - topo, desktop | 1200 x 300 (4:1) | 600 px |
+| `webinar-5x-ia/convite-header-mobile-v1.png`  | Convite - topo, mobile  | 600 x 200 (3:1)  | largura da tela |
