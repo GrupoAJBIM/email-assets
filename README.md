@@ -30,3 +30,5 @@ que ja foi publicada: suba com sufixo novo (`-v3`) e atualize o `src` no HTML.
 |---|---|---|---|
 | `webinar-5x-ia/convite-header-desktop-v1.png` | Convite - topo, desktop | 1200 x 300 (4:1) | 600 px |
 | `webinar-5x-ia/convite-header-mobile-v1.png`  | Convite - topo, mobile  | 600 x 200 (3:1)  | largura da tela |
+| `webinar-5x-ia/convite2-header-desktop-v1.png` | 2o Convite - topo, desktop | 1200 x 300 (4:1) | 600 px |
+| `webinar-5x-ia/convite2-header-mobile-v1.png`  | 2o Convite - topo, mobile  | 600 x 200 (3:1)  | largura da tela |
