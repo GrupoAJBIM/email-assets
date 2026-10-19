@@ -32,3 +32,19 @@ que ja foi publicada: suba com sufixo novo (`-v3`) e atualize o `src` no HTML.
 | `webinar-5x-ia/convite-header-mobile-v1.png`  | Convite - topo, mobile  | 600 x 200 (3:1)  | largura da tela |
 | `webinar-5x-ia/convite2-header-desktop-v1.png` | 2o Convite - topo, desktop | 1200 x 300 (4:1) | 600 px |
 | `webinar-5x-ia/convite2-header-mobile-v1.png`  | 2o Convite - topo, mobile  | 600 x 200 (3:1)  | largura da tela |
+
+
+## aquecimento-ia (aquecimento da base fria antes do MBA em IA, 19 a 23/10/2026)
+
+| arquivo | uso | arquivo | exibe em |
+|---|---|---|---|
+| `aquecimento-ia/01-mapa-oportunidades-desktop-v1.png` | E-mail 1 - topo, desktop | 1200 x 300 (4:1) | 600 px |
+| `aquecimento-ia/01-mapa-oportunidades-mobile-v1.png`  | E-mail 1 - topo, mobile  | 600 x 200 (3:1)  | largura da tela |
+| `aquecimento-ia/02-atas-documentacao-desktop-v1.png`  | E-mail 2 - topo, desktop | 1200 x 300 (4:1) | 600 px |
+| `aquecimento-ia/02-atas-documentacao-mobile-v1.png`   | E-mail 2 - topo, mobile  | 600 x 200 (3:1)  | largura da tela |
+| `aquecimento-ia/03-automacao-revit-desktop-v1.png`    | E-mail 3 - topo, desktop | 1200 x 300 (4:1) | 600 px |
+| `aquecimento-ia/03-automacao-revit-mobile-v1.png`     | E-mail 3 - topo, mobile  | 600 x 200 (3:1)  | largura da tela |
+| `aquecimento-ia/04-vistoria-ia-desktop-v1.png`        | E-mail 4 - topo, desktop | 1200 x 300 (4:1) | 600 px |
+| `aquecimento-ia/04-vistoria-ia-mobile-v1.png`         | E-mail 4 - topo, mobile  | 600 x 200 (3:1)  | largura da tela |
+| `aquecimento-ia/05-metodo-desktop-v1.png`             | E-mail 5 - topo, desktop | 1200 x 300 (4:1) | 600 px |
+| `aquecimento-ia/05-metodo-mobile-v1.png`              | E-mail 5 - topo, mobile  | 600 x 200 (3:1)  | largura da tela |
